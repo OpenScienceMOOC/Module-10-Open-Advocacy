@@ -34,7 +34,7 @@
 
 **Tools**
 
-* [Why Open Research?](http://whyopenresearch.org/)** **(Erin Mckiernan).
+* [Why Open Research?](http://whyopenresearch.org/), Erin Mckiernan.
 
 * [Open Speakers Database](https://openspeakers.org/), a crowdsourced database of regional experts on Open Access, Open Education and Open Data.
 
@@ -62,6 +62,12 @@
 
 * [Open in order to...](https://openinorder.to/).
 
+* [Academic job offers that mentioned Open Science](https://osf.io/7jbnt/), Felix Sch�nbrodt and David Mellor.
+
+* [The guidebook for Supporters](https://www.supporters.guide/).
+
+* [Free our Knowledge campaign](http://freeourknowledge.org/).
+
 **Research Articles and Reports**
 
 * [Open letter to the American Association for the Advancement of Science](https://thewinnower.com/papers/45-open-letter-to-the-american-association-for-the-advancement-of-science) (Tennant et al., 2014).
@@ -76,13 +82,15 @@
 
 **Key posts**
 
-* [An early career researcher’s view on modern and open scholarship](https://lgatto.github.io/EPFL-open-science/), Laurent Gatto.
+* [An early career researcher's view on modern and open scholarship](https://lgatto.github.io/EPFL-open-science/), Laurent Gatto.
 
-* [Lingua is dead. Long live Glossa!](http://languagelog.ldc.upenn.edu/nll/?p=22162), Eric Baković.
+* [Lingua is dead. Long live Glossa!](http://languagelog.ldc.upenn.edu/nll/?p=22162), Eric Bakovia.
 
 * [The Open Access movement and activism for the knowledge commons](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html), Jackie Smith.
 
 * [Defending the global knowledge commons](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons), Jackie Smith.
+
+* [Racing to the crossroads of scholarly communication and democracy: But who are we leaving behind?](http://inthelibrarywiththeleadpipe.org/2018/racing-to-the-crossroads-of-scholarly-communication-and-democracy-but-who-are-we-leaving-behind/), April Hathcock.
 
 **Other**
 
