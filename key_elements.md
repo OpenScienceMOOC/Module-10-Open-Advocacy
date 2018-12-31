@@ -62,7 +62,7 @@
 
 * [Open in order to...](https://openinorder.to/).
 
-* [Academic job offers that mentioned Open Science](https://osf.io/7jbnt/), Felix Schönbrodt and David Mellor.
+* [Academic job offers that mentioned Open Science](https://osf.io/7jbnt/), Felix Sch?nbrodt and David Mellor.
 
 * [The guidebook for Supporters](https://www.supporters.guide/).
 
@@ -76,7 +76,15 @@
 
 * [How open science helps researchers succeed](https://elifesciences.org/articles/16800) (McKiernan et al., 2016).
 
-* [How open access is crucial to the future of science](https://kuscholarworks.ku.edu/handle/1808/22672?utm_content=buffer40244&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (Bolick et al., 2017).
+* [How open access is crucial to the future of science](https://kuscholarworks.ku.edu/handle/1808/22672) (Bolick et al., 2017).
+
+* [Open Science challenges, benefits and tips in early career and beyond](https://psyarxiv.com/3czyt/) (Allen and Mehler, 2018).
+
+* [A grand challenges-based research agenda for scholarly communication and information](https://grandchallenges.pubpub.org/pub/final) (Altman and Bourg, 2018).
+
+* [Answers to 18 questions about Open Science practices](https://link.springer.com/article/10.1007%2Fs10869-018-9547-8) (Banks et al., 2018).
+
+* [A layered framework for considering Open Science practices](https://www.tandfonline.com/doi/full/10.1080/08824096.2018.1513273) (Bowman and Keene, 2018).
 
 * [Effective Practices and Strategies for Open Access Outreach: A Qualitative Study](https://jlsc-pub.org/articles/abstract/10.7710/2162-3309.2216/) (Dawson, 2018).
 
@@ -94,9 +102,15 @@
 
 **Other**
 
-* [Ask ](https://ask-open-science.org/)[Open Science](https://ask-open-science.org/).
+* [Ask](https://ask-open-science.org/)[Open Science](https://ask-open-science.org/).
 
-* [IGDORE](https://igdore.org/), Institute for Globally Distributed Open Research and Education. 
+* [IGDORE](https://igdore.org/), Institute for Globally Distributed Open Research and Education.
+
+* [The global benefits of open research](https://www.mdpi.com/books/pdfview/edition/914), collection edited by Martin Rittman.
+
+* [Open Access escape room](https://figshare.com/projects/Open_Access_Escape_Room/56915), Katrine SundsbÃ¸.
+
+* [How to be an Open Scientist](http://isas.unicam.it/sites/isas.unicam.it/files/HowtobeanOpenScientist_UNICAM.pdf), University of Camerino
 
 * [Berlin Open Science and Reproducible Research Meetup](https://www.meetup.com/Berlin-Open-Science-Meetup/).
 
@@ -118,7 +132,7 @@
 
 * [Strengthen Advocacy](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/) Capacity (PATH).
 
-* [OpenCon blog posts](http://www.opencon2017.org/resources_misc?utm_campaign=feb_march_cc&utm_medium=email&utm_source=righttoresearch) from participants.
+* [OpenCon blog posts](http://www.opencon2017.org/resources_misc) from participants.
 
 * [Geo for All](https://www.osgeo.org/initiatives/geo-for-all/in-your-classroom/) teaching resources.
 
